@@ -37,7 +37,7 @@ GEM
     ancestry (1.2.4)
       activerecord (>= 2.2.2)
     arel (2.0.10)
-    browsercms (3.3.3)
+    browsercms (3.4.1)
       ancestry (~> 1.2.4)
       rails (~> 3.0.7)
       term-ansicolor
@@ -90,5 +90,5 @@ PLATFORMS
 
 DEPENDENCIES
   bcms_thumbnail!
-  browsercms (~> 3.3.3)
-  rails (~> 3.0.12)
+  browsercms (~> 3.4.1)
+  rails (~> 3.1.0)
