@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.extra_rdoc_files = ["README"]
   if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
     spec.add_dependency("mini_magick", [">= 1.2.5"])
-    spec.add_dependency "browsercms", "~> 3.3.0"
+    spec.add_dependency "browsercms", "~> 3.4.1"
   end
 end
